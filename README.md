@@ -9,7 +9,7 @@ Notebooks y datos usados para la clase de Repaso & Unsupervised learning
 - [Librerias Python](repaso/2_LibreriasDatosPython.ipynb) 
 - [Modelos supervided learning](repaso/3_Modelos1erMes.ipynb) 
 
-## [Kmeans](K_meansipynb.ipynb)
+## [KMeans](K_meansipynb.ipynb)
 ## [PCA](PCA.ipynb)
 
 ## Datos
